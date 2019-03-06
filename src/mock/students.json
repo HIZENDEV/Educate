@@ -1,0 +1,68 @@
+[
+	{
+		"id": 1234,
+		"name": {
+			"first": "Lou",
+			"last": "Lefevre"
+		},
+		"school": "Collège privé Stanislas",
+		"ascend": "14.3/20",
+		"class": "5e B",
+		"picture": "https://images.unsplash.com/photo-1475821660373-587d74229161?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60"
+	},
+	{
+		"id": 1235,
+		"name": {
+			"first": "Noa",
+			"last": "Martin"
+		},
+		"school": "Institution La Providence",
+		"ascend": "17.1/20",
+		"class": "6e A",
+		"picture": "https://images.unsplash.com/photo-1484553441412-d8f66d90195b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60d"
+	},
+	{
+		"id": 1236,
+		"name": {
+			"first": "Viollette",
+			"last": "Desnoyer"
+		},
+		"school": "Notre-Dame de France",
+		"ascend": "12.2/20",
+		"class": "4e A",
+		"picture": "https://i.pinimg.com/236x/5e/3e/3d/5e3e3d4e0df25cb662caa92f3588a47f--laneya-grace-instagram-girls.jpg"
+	},
+	{
+		"id": 1237,
+		"name": {
+			"first": "Adèle",
+			"last": "Hébert"
+		},
+		"school": "Saint Ambroise",
+		"ascend": "16.5/20",
+		"class": "3e A",
+		"picture": "https://i.pinimg.com/originals/35/99/2f/35992f503e361d7155005fe543018a77.jpg"
+	},
+	{
+		"id": 1238,
+		"name": {
+			"first": "Gabriel",
+			"last": "Dumoulin"
+		},
+		"school": "Charles Peguy",
+		"ascend": "11.9/20",
+		"class": "4e D",
+		"picture": "https://im.indiatimes.in/photogallery/2015/Jan/1338594_1437681548.jpg"
+	},
+	{
+		"id": 1239,
+		"name": {
+			"first": "Théodore",
+			"last": "Fontaine"
+		},
+		"school": "Saint-Jean De Passy",
+		"ascend": "13.9/20",
+		"class": "3e C",
+		"picture": "http://www.hudsonstreetfamilyphoto.com/wp-content/uploads/2015/01/30-27555-pp_gallery/Robert-Charles-9-1024x684(pp_w619_h413).jpg"
+	}
+]
